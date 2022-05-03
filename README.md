@@ -14,5 +14,5 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
-<img src="images/ss1.png">
-<img src="images/ss2.png">
+<img src="images/ss1.png" width= %30>
+<img src="images/ss2.png" width= %30>
